@@ -1,0 +1,60 @@
+.container{
+    height: 100vh;
+    background: url(https://th.bing.com/th/id/OIP.10DhU8Td1gtxy_LAeDAkrgHaEo?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container1{
+    display: flex;
+    margin-left: 75%;
+    margin-bottom: 5px;
+    
+}
+h1{
+    font-size: larger;
+    color: aliceblue;
+    
+}
+h2{
+    font-size: larger;
+    margin: 5px;
+    color: aliceblue;
+}
+h3{
+    font-size: larger;
+    margin: 5px;
+    color: aliceblue;
+}
+h4{
+    font-size: larger;
+    margin: 5px;
+    color: aliceblue;
+
+}
+h5{
+    font-size: larger;
+    margin: 5px;
+    color: aliceblue;
+}
+.container2{
+    position: relative;
+    left: 35%;
+}
+h6{
+    font-size: xx-large;
+    color: aliceblue;
+}
+input{
+    background-color: red;
+    position: relative;
+    left: 40%;
+    border-radius: 10px;
+    width: 200px;
+    color: aliceblue;
+    font-size: large;
+}
+p{
+    color: aliceblue;
+}
+
